@@ -15,8 +15,6 @@ $answer = split(";;",$line);
 <meta name="description" content="Stuck with a bunch of apples? Here is your salvation.">
 <meta property="og:description" content="Stuck with a bunch of apples? Here is your salvation.">
 <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0">
-<script type="text/javascript" src="http://use.typekit.com/sbd0vac.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <style type="text/css" media="screen">
 a {
   color: #0069D6;
